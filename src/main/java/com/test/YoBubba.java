@@ -8,9 +8,11 @@ package com.test;
  */
 public class YoBubba {
 
+    public static String    YB = "Yo Bubba!!!";
+
     public  String  getMessage() {
 
-        return "Yo Bubba!";
+        return YB;
     }
 
     public static void main(String[] args) {
